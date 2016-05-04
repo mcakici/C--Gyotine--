@@ -1,0 +1,45 @@
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\RotatePictureBox.Form1.resources
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\ResGen.read.1.tlog
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\ResGen.write.1.tlog
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Debug\Gyotine.exe
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Debug\Gyotine.pdb
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\Gyotine.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\Gyotine.exe
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\Gyotine.pdb
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Debug\sound\basla.wav
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Debug\sound\bravo.wav
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Debug\sound\cin.wav
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Debug\sound\olmadi.wav
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Debug\sound\bekleme.wav
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Debug\data.ini
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Debug\Gyotine.exe
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Debug\Gyotine.pdb
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Debug\sound\basla.wav
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Debug\sound\bravo.wav
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Debug\sound\cin.wav
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Debug\sound\olmadi.wav
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Debug\sound\bekleme.wav
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Debug\data.ini
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Debug\Gyotine.exe
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Debug\Gyotine.pdb
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Debug\RotatePictureBox.Form1.resources
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Debug\Gyotine.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Debug\ResGen.read.1.tlog
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Debug\ResGen.write.1.tlog
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Debug\Gyotine.exe
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Debug\Gyotine.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Debug\sound\basla.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Debug\sound\bravo.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Debug\sound\cin.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Debug\sound\olmadi.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Debug\sound\bekleme.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Debug\data.ini
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Debug\Gyotine.exe
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Debug\Gyotine.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Debug\RotatePictureBox.Form1.resources
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Debug\Gyotine.Properties.Resources.resources
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Debug\ResGen.read.1.tlog
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Debug\ResGen.write.1.tlog

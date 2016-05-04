@@ -1,0 +1,62 @@
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Release\Gyotine.exe
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Release\Gyotine.pdb
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\RotatePictureBox.Form1.resources
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\Gyotine.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\ResGen.read.1.tlog
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\ResGen.write.1.tlog
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\Gyotine.exe
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\Gyotine.pdb
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Release\sound\basla.wav
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Release\sound\bravo.wav
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Release\sound\cin.wav
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Release\sound\bekleme.wav
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Release\sound\olmadi.wav
+C:\Users\Mustafa\Desktop\RotatePictureBox\RotatePictureBox\bin\Release\data.ini
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Release\Gyotine.exe
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Release\Gyotine.pdb
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Release\sound\basla.wav
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Release\sound\bravo.wav
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Release\sound\cin.wav
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Release\sound\olmadi.wav
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Release\sound\bekleme.wav
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Release\data.ini
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Release\Gyotine.exe
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\bin\Release\Gyotine.pdb
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Release\RotatePictureBox.Form1.resources
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Release\Gyotine.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Release\ResGen.read.1.tlog
+C:\Users\Mustafa\Desktop\GynotineSistem\RotatePictureBox\obj\Release\ResGen.write.1.tlog
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\obj\Release\Gyotine.exe
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\obj\Release\Gyotine.pdb
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\bin\Release\sound\basla.wav
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\bin\Release\sound\bravo.wav
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\bin\Release\sound\cin.wav
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\bin\Release\sound\olmadi.wav
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\bin\Release\sound\bekleme.wav
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\bin\Release\data.ini
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\bin\Release\Gyotine.exe
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\bin\Release\Gyotine.pdb
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\obj\Release\RotatePictureBox.Form1.resources
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\obj\Release\Gyotine.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\obj\Release\ResGen.read.1.tlog
+C:\Users\Mustafa\Desktop\GyotineProject\RotatePictureBox\obj\Release\ResGen.write.1.tlog
+C:\Users\Mustafa\Desktop\Gyotine\GyotineProject\RotatePictureBox\obj\Release\Gyotine.exe
+C:\Users\Mustafa\Desktop\Gyotine\GyotineProject\RotatePictureBox\obj\Release\Gyotine.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Release\Gyotine.exe
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Release\Gyotine.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Release\sound\basla.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Release\sound\bravo.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Release\sound\cin.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Release\sound\olmadi.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Release\sound\bekleme.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Release\data.ini
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Release\Gyotine.exe
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\bin\Release\Gyotine.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Release\RotatePictureBox.Form1.resources
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Release\Gyotine.Properties.Resources.resources
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Release\ResGen.read.1.tlog
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Gyotine\GyotineProject\RotatePictureBox\obj\Release\ResGen.write.1.tlog

@@ -1,0 +1,16 @@
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\RotatePictureBox.Form1.resources
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\RotatePictureBox.Properties.Resources.resources
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\RotatePictureBox.csproj.GenerateResource.Cache
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\bin\Debug\RotatePictureBox.exe
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\bin\Debug\RotatePictureBox.pdb
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\RotatePictureBox.exe
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Debug\RotatePictureBox.pdb
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\bin\Release\RotatePictureBox.exe
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\bin\Release\RotatePictureBox.pdb
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\RotatePictureBox.Form1.resources
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\RotatePictureBox.Properties.Resources.resources
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\RotatePictureBox.csproj.GenerateResource.Cache
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\RotatePictureBox.exe
+C:\Users\Nathan\Desktop\RotatePictureBox\RotatePictureBox\obj\Release\RotatePictureBox.pdb
